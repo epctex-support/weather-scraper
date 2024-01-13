@@ -1,3 +1,5 @@
+[https://apify.com/epctex/weather-scraper?fpr=yhdrb](https://apify.com/epctex/weather-scraper?fpr=yhdrb)
+
 # Weather Scraper
 
 Weather Scraper is an [Apify actor](https://apify.com/actors) for extracting weather information from [Weather.com](https://weather.com). It gives you access to various available weather data in structured form. It is build on top of [Apify SDK](https://sdk.apify.com/) and you can run it both on [Apify platform](https://my.apify.com) and locally.
