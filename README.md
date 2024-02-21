@@ -1,4 +1,4 @@
-[https://apify.com/epctex/weather-scraper?fpr=yhdrb](https://apify.com/epctex/weather-scraper?fpr=yhdrb)
+[https://apify.com/epctex/weather-scraper](https://apify.com/epctex/weather-scraper?fpr=yhdrb)
 
 # Weather Scraper
 
